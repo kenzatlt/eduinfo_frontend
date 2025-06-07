@@ -1,4 +1,3 @@
-// app/frontend/vercel.json
 {
   "rewrites": [
     {
